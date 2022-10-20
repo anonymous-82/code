@@ -1,1 +1,1 @@
-# Bandit Join, randomized mrun, SMS join Algorithms
+# Bandit Join(mrun), randomized mrun, SMS join(Optimized Sort Merge) Algorithms
