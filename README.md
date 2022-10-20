@@ -1,1 +1,1 @@
-# Information about "Bandit Join - randomized mrun"
+# Bandit Join, randomized mrun, SMS join Algorithms
