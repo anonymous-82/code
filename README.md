@@ -1,4 +1,4 @@
-# Bandit Join(mrun), randomized mrun, SMS join(Optimized Sort Merge), collaborative learning Algorithms
+# Bandit Join(mrun), randomized mrun, SMS join(Optimized Sort Merge), collaborative learning, Block-based Nested Loop: Algorithms
 
   Bandit Join(mrun): Steps to follow for running the algorithm
   1. Install the postgresql source code on the machine.
