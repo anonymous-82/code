@@ -60,3 +60,11 @@
   8. 1st run the python script using the command: python colearn.py clean
   9. Once step-8 is completed, then run the python script using the command: python colearn.py fullDataFilename summaryFilename
   10. The queries will run and stores the running time results in the files "fullDataFilename" and "summaryFilename"
+  
+  
+    Block Based Nested loop (BNL):
+  1. Take similar source code above mentioned "mrun" folder
+  2. In the python script, change the below flags
+      set enable_block=on;
+      set enable_fastjoin=off;
+  3. And follow the same steps of make, make install and running the script with the queries.
