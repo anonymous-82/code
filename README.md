@@ -1,6 +1,6 @@
 # Bandit Join(mrun), randomized mrun, SMS join(Optimized Sort Merge), collaborative learning, Block-based Nested Loop: Algorithms
 
-  Bandit Join(mrun): Steps to follow for running the algorithm
+    Bandit Join(mrun): Steps to follow for running the algorithm
   1. Install the postgresql source code on the machine.
   2. Copy the "nodeNestloop.c" from mrun folder to postgresql path - src/backend/executor
   3. Copy the "execnodes.h" from mrun folder to postgresql path - src/include/nodes
@@ -15,7 +15,7 @@
   10. The queries will run and stores the running time results in the files "fullDataFilename" and "summaryFilename"
   
   
-  randomized mrun: Steps to follow for running the algorithm
+    randomized mrun: Steps to follow for running the algorithm
   1. Install the postgresql source code on the machine.
   2. Copy the "nodeNestloop.c" from randomized mrun folder(Github) to postgresql path - src/backend/executor
   3. Copy the "execnodes.h" from randomized mrun folder(Github) to postgresql path - src/include/nodes
@@ -30,7 +30,7 @@
   10. The queries will run and stores the running time results in the files "fullDataFilename" and "summaryFilename"
   
   
-  SMS Join (Optimized Sort Merge): Steps to follow for running the algorithm
+    SMS Join (Optimized Sort Merge): Steps to follow for running the algorithm
   1. Install the postgresql source code on the machine.
   2. Copy the "nodeMergejoin.c" and "nodeSort.c" from sort merge shrink (SMS) folder(Github) to postgresql path - src/backend/executor
   3. Copy the "execnodes.h" from sort merge shrink (SMS) folder(Github) to postgresql path - src/include/nodes
